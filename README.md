@@ -1,7 +1,7 @@
 # 1D-Pong
  A arduino based LED strip 1 dimensional pong game. (2018)
 
- This is made for my Electronics Laboratory in 2018. This is a 1 dimensional pong game made with an addressable LED strip and arduino. Though my senior teacher didn't like the concept, the student was amused by it. That how led can be used to make a game.
+ This is made for my Electronics Laboratory in 2018. This is a 1 dimensional pong game made with an addressable LED strip and arduino. Though my senior teacher didn't like the concept, but the student was amused by it. That how led can be used to make a game.
 
  ## Project description
 Name: 1D Pong <br>
