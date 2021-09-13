@@ -22,7 +22,7 @@ Year: 2018
 </ul>
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "1D-Pong || Arduino project") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/SazAtlcR5Uc/0.jpg)](http://www.youtube.com/watch?v=SazAtlcR5Uc "1D-Pong || Arduino project")
 
 ## Screen shot
 ### Board and the Circuit Desing
