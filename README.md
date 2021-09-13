@@ -37,11 +37,11 @@ Year: 2018
 
 ### Borad 
 <br>
-<img src="demo/4.jpg" alt="Base template" width="800"/>
+<img src="demo/4.jpeg" alt="Base template" width="800"/>
 
 ### Play Demo 
 <br>
-<img src="demo/5.jpg" alt="Base template" width="800"/>
+<img src="demo/5.jpeg" alt="Base template" width="800"/>
 
 
 
